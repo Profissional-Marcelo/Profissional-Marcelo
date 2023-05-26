@@ -14,7 +14,10 @@
 
 
 ### Languages
- [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
+ [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Profissional-Marcelo)
+ [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Profissional-Marcelo)
+ [![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/Profissional-Marcelo)
+ 
 Java, PHP, Phyton, JavaScript, SQL
 
 Tecnologias & Frameworks:
