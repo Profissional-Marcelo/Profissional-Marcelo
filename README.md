@@ -4,7 +4,7 @@
     <i>
  <br>
  <a href="https://www.linkedin.com/in/marcelo-rei-8246a226a">
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
  <i>
         Eu sou Marcelo.<br>
        Atualmente estou dando meus primeiros passos em programação, tentando não tropeçar, se é que me entendem... 😄<br>
