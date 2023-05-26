@@ -13,7 +13,8 @@
 
 
 
-Linguagens:
+### Languages
+ [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
 Java, PHP, Phyton, JavaScript, SQL
 
 Tecnologias & Frameworks:
