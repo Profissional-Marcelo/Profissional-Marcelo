@@ -7,7 +7,7 @@
        Estou aberto a colaborar em projetos interessantes e inovadores.<br>
     </i><br>
  <a href="https://www.linkedin.com/in/marcelo-rei-8246a226a">
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" target="_blank"></a>
   <br>
 
 
