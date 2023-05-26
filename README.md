@@ -18,11 +18,9 @@
  [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Profissional-Marcelo)
  [![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/Profissional-Marcelo)
  [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Profissional-Marcelo)
- [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
- 
-Java, PHP, Phyton, 
+ [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Profissional-Marcelo) 
 
-Tecnologias & Frameworks:
+### Tecnologias & Frameworks:
 HTML5, CSS3
 
 SO:
