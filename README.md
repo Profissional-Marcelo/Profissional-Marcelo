@@ -21,8 +21,9 @@
  [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Profissional-Marcelo) 
 
 ### Tecnologias & Frameworks:
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/Profissional-Marcelo)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/Profissional-Marcelo)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Profissional-Marcelo)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Profissional-Marcelo)
 
-SO:
-Linux, Windows
+### SO:
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Profissional-Marcelo)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Profissional-Marcelo)
