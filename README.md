@@ -28,4 +28,4 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Profissional-Marcelo)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Profissional-Marcelo)
 
-![Snake animation](https://github.com/Profissional-Marcelo/Profissional-Marcelo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
