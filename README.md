@@ -5,13 +5,12 @@
         Eu sou Marcelo.<br>
        Atualmente estou dando meus primeiros passos em programação, tentando não tropeçar, se é que me entendem... 😄<br>
        Estou aberto a colaborar em projetos interessantes e inovadores.<br>
-    </i><br>
- <a href="https://www.linkedin.com/in/marcelo-rei-8246a226a">
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" target="_blank"></a>
+
   <br>
 
 <div align="center" valign="top"><br> 
   <a href="https://www.instagram.com/marce.rei/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcelo-rei-8246a226a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" target="_blank"></a>
 </div><br>
 
 
