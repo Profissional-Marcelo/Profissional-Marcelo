@@ -10,7 +10,7 @@
 
 <div align="center" valign="top"><br> 
   <a href="https://www.instagram.com/marce.rei/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/marcelo-rei-8246a226a/))
+ 
 
 </div><br>
 
