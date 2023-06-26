@@ -23,6 +23,7 @@
  [![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/Profissional-Marcelo)
  [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Profissional-Marcelo)
  [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Profissional-Marcelo) 
+ [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Profissional-Marcelo) 
 
 ### Tecnologias & Frameworks:
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Profissional-Marcelo)
