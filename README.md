@@ -27,16 +27,10 @@
  [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Profissional-Marcelo)
  [![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/Profissional-Marcelo)
  [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Profissional-Marcelo)
- [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Profissional-Marcelo) 
- [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Profissional-Marcelo) 
- [![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://github.com/Profissional-Marcelo) 
 
 ### Tecnologias & Frameworks:
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Profissional-Marcelo)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Profissional-Marcelo)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/Profissional-Marcelo)
-[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/Profissional-Marcelo)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Profissional-Marcelo)
 
 ### SO:
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Profissional-Marcelo)
