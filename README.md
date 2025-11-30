@@ -40,7 +40,10 @@
 
 <div align="center">
 <br><p align="centre"><b>Contador de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Profissional-Marcelo}/count.svg" /></p> 
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/Profissional-Marcelo&label=VISITAS&labelColor=%23555555&countColor=%231e7df0" />
+</p>
+<br>
 <br>
 </div>
 
